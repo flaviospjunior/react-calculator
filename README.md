@@ -2,7 +2,7 @@
 
 Uma simples calculadora feita utilizando a biblioteca React.
 
-## Available Scripts
+## Comandos disponíveis:
 
 Para rodar o programa basta seguir as instruções abaixo:
 
